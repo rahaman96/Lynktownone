@@ -1,0 +1,169 @@
+.advantageMain {
+
+    position: relative;
+}
+
+.ladyImg {
+
+    position: absolute;
+    top: -130px;
+    left: -40px;
+}
+
+
+
+@media only screen and (max-width: 361px) {
+    .advantage {
+        width: 335px;
+    }
+
+    .advantageBG {
+        margin-left: 16px;
+    }
+
+    .ladyImg {
+        left: 20px;
+        top: -33px;
+
+    }
+
+}
+
+
+@media (min-width: 361px) and (max-width:376px) {
+    .advantage {
+        width: 355px;
+    }
+
+
+    .advantageBG {
+        margin-left: 16px;
+    }
+
+    .ladyImg {
+        left: 20px;
+        top: -28px;
+
+    }
+
+}
+
+@media (min-width: 376px) and (max-width:391px) {
+    .advantage {
+        width: 365px;
+    }
+
+    .advantageBG {
+        margin-left: 16px;
+    }
+
+    .ladyImg {
+        left: 20px;
+        top: -32px;
+
+    }
+}
+
+@media (min-width: 391px) and (max-width:394px) {
+    .advantage {
+        width: 362px;
+    }
+
+    .advantageBG {
+        margin-left: 16px;
+    }
+
+    .ladyImg {
+        left: 20px;
+        top: -33px;
+
+    }
+}
+
+@media (min-width: 394px) and (max-width:400px) {
+    .advantage {
+        width: 370px;
+    }
+}
+
+@media (min-width: 401px) and (max-width:415px) {
+    .advantage {
+        width: 385px;
+    }
+
+    .advantageBG {
+        margin-left: 16px;
+    }
+
+    .ladyImg {
+        left: 20px;
+        top: -33px;
+
+    }
+}
+
+@media (min-width: 540px) and (max-width:720px) {
+    .advantageBG {
+        margin-left: 16px;
+        width: 320px;
+    }
+
+    .ladyImg {
+        width: 430px;
+        left: 12px;
+        top: -39px;
+
+    }
+}
+
+/* Seller Start */
+.Seller {
+    position: relative;
+
+}
+
+.personImg {
+    position: absolute;
+    bottom: -4px;
+}
+
+
+
+@media only screen and (max-width: 281px) {}
+
+@media (min-width: 281px) and (max-width:361px) {
+    .personImg {
+        bottom: -36px;
+        left: 11px;
+    }
+
+}
+
+
+@media (min-width: 361px) and (max-width:376px) {}
+
+@media (min-width: 376px) and (max-width:391px) {}
+
+@media (min-width: 391px) and (max-width:394px) {}
+
+@media (min-width: 394px) and (max-width:400px) {
+
+    .personImg {
+        height: 345px;
+        left: -3px;
+        bottom: -2px;
+    }
+}
+
+@media (min-width: 401px) and (max-width:415px) {
+    .personImg {
+        bottom: -14px;
+        left: 28px;
+        height: 322px;
+    }
+
+}
+
+@media (min-width: 540px) and (max-width:720px) {}
+
+/* Seller End */

@@ -1,0 +1,28 @@
+{
+  "projects": {
+    "default": "u2-lynk"
+  },
+  "targets": {
+    "u2-lynks": {
+      "hosting": {
+        "app": [
+          "u2-lynks.web.app"
+        ],
+        "app3": [
+          "u2-lynk"
+        ],
+        "app4": [
+          "u2-lynks2"
+        ]
+      }
+    },
+    "u2-lynk": {
+      "hosting": {
+        "app4": [
+          "u2-lynks"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

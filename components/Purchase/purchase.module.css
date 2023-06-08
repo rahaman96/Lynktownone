@@ -1,0 +1,113 @@
+/* .purchaseMain{
+
+    position: relative;
+
+}
+
+.purchaseLady{
+
+    position: absolute;
+    left:6px;
+     bottom: 2px;
+}
+
+
+
+@media only screen and (max-width: 281px) {
+    
+    .purchaseLady{
+
+        width: 180px;
+         left:16px;
+          bottom: 1.5px;
+     }
+   
+   
+
+}
+
+@media (min-width: 281px) and (max-width:361px) {
+    
+.purchaseSty{
+    width: 386px;
+}
+    .purchaseLady{
+
+        width: 260px;
+         left:28px;
+          bottom: 1.5px;
+     }
+   
+
+}
+
+
+@media (min-width: 361px) and (max-width:376px) {
+    .purchaseSty{
+        width: 414px;
+    }
+    .purchaseLady{
+
+       width: 280px;
+        left:34px;
+         bottom: 2px;
+    }
+   
+}
+
+@media (min-width: 376px) and (max-width:391px) {
+    .purchaseSty{
+        width: 416px;
+    }
+    .purchaseLady{
+
+        width: 300px;
+         left:26px;
+        
+     }
+}
+
+@media (min-width: 391px) and (max-width:394px) {
+    .purchaseSty{
+        width: 418px;
+    }
+    .purchaseLady{
+
+        width: 300px;
+         left:26px;
+          bottom: 2px;
+     }
+}
+
+@media (min-width: 394px) and (max-width:400px) {
+    .advantage {
+        width: 370px;
+    }
+}
+
+@media (min-width: 401px) and (max-width:415px) {
+    .purchaseSty{
+        width: 439px;
+    }
+    .purchaseLady{
+
+        width: 320px;
+         left:26px;
+          bottom: 2px;
+     }
+}
+
+@media (min-width: 540px) and (max-width:720px) {
+    .purchaseMain{
+        margin-left: 30px;
+    }
+    .purchaseBG{
+        width:340px;
+    }
+    .purchaseLady{
+
+        width: 720px;
+         left:18px;
+          bottom: 2px;
+     }
+} */

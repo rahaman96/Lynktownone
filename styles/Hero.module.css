@@ -1,0 +1,36 @@
+/* @media only screen and (max-width: 360px) {
+    .heroMain{
+      width: 386px;
+    }
+  
+  }
+  
+  @media (min-width: 360px) and (max-width:375px) {
+    .heroMain{
+      width: 386px;
+    }
+  }
+  
+  @media (min-width: 375px) and (max-width:391px) {
+    .heroMain{
+      width: 415px;
+    }
+  }
+  
+  @media (min-width: 391px) and (max-width:394px) {
+    .heroMain{
+      width: 418px;
+    }
+  }
+  
+  @media (min-width: 394px) and (max-width:400px) {
+    .brandPages {
+      margin-top: -2320px;
+    }
+  }
+  
+  @media (min-width: 400px) and (max-width:415px) {
+    .heroMain{
+      width: 438px;
+    }
+  } */
